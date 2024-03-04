@@ -1,0 +1,23 @@
+adauga_student - licenta - Bogdan
+adauga_student - licenta - Vasile
+adauga_student - licenta - Izabela
+adauga_student - licenta - Valentina
+adauga_student - licenta - Florin
+adauga_student - licenta - Marian
+adauga_student - licenta - Ionut
+citeste_mediile
+posteaza_mediile
+adauga_curs - licenta - Fizica - 2
+adauga_curs - licenta - Chimie - 3
+adauga_curs - licenta - Mate2 - 2
+adauga_preferinte - Bogdan - Fizica - Chimie - Mate2
+adauga_preferinte - Vasile - Fizica - Mate2 - Chimie
+adauga_preferinte - Izabela - Chimie - Mate2
+adauga_preferinte - Valentina - Chimie
+adauga_preferinte - Florin - Mate2 - Fizica - Chimie
+adauga_preferinte - Marian - Chimie
+adauga_preferinte - Ionut - Fizica
+repartizeaza
+posteaza_curs - Fizica
+posteaza_curs - Chimie
+posteaza_curs - Mate2
